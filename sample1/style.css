@@ -1,0 +1,19 @@
+body {
+    background: #101010;
+    color: #eee;
+    font-family: 'Pretendard', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    background: #444;
+    padding: 10px 16px;
+    border-radius: 6px;
+}
+
+a:hover {
+    background: #666;
+}
